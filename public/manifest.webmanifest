@@ -1,0 +1,25 @@
+{
+  "name": "Ibukunoluwa Olabode Portfolio",
+  "short_name": "Ibukunoluwa",
+  "description": "Full Stack Web Developer portfolio, selected work, articles and contact details.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080b16",
+  "theme_color": "#080b16",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

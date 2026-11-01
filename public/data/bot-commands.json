@@ -1,0 +1,1090 @@
+{
+  "total": 155,
+  "commands": [
+    {
+      "command": "/home",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Home",
+      "enabled": true
+    },
+    {
+      "command": "/about",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "About",
+      "enabled": true
+    },
+    {
+      "command": "/work",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Work",
+      "enabled": true
+    },
+    {
+      "command": "/freelance",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Freelance",
+      "enabled": true
+    },
+    {
+      "command": "/blog",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Blog",
+      "enabled": true
+    },
+    {
+      "command": "/resume",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Resume",
+      "enabled": true
+    },
+    {
+      "command": "/hire",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Hire",
+      "enabled": true
+    },
+    {
+      "command": "/chat",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Chat",
+      "enabled": true
+    },
+    {
+      "command": "/admin",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Admin",
+      "enabled": true
+    },
+    {
+      "command": "/media",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Media",
+      "enabled": true
+    },
+    {
+      "command": "/open-home",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Open home",
+      "enabled": true
+    },
+    {
+      "command": "/open-about",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Open about",
+      "enabled": true
+    },
+    {
+      "command": "/open-projects",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Open projects",
+      "enabled": true
+    },
+    {
+      "command": "/open-services",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Open services",
+      "enabled": true
+    },
+    {
+      "command": "/open-journal",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Open journal",
+      "enabled": true
+    },
+    {
+      "command": "/open-cv",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Open cv",
+      "enabled": true
+    },
+    {
+      "command": "/open-contact",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Open contact",
+      "enabled": true
+    },
+    {
+      "command": "/open-assistant",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Open assistant",
+      "enabled": true
+    },
+    {
+      "command": "/back-home",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Back home",
+      "enabled": true
+    },
+    {
+      "command": "/top",
+      "category": "navigation",
+      "mode": "navigate",
+      "description": "Top",
+      "enabled": true
+    },
+    {
+      "command": "/skills",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Skills",
+      "enabled": true
+    },
+    {
+      "command": "/stack",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Stack",
+      "enabled": true
+    },
+    {
+      "command": "/projects",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Projects",
+      "enabled": true
+    },
+    {
+      "command": "/featured-projects",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Featured projects",
+      "enabled": true
+    },
+    {
+      "command": "/ibk-technet-hub",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Ibk technet hub",
+      "enabled": true
+    },
+    {
+      "command": "/digitrovea",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Digitrovea",
+      "enabled": true
+    },
+    {
+      "command": "/song-app",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Song app",
+      "enabled": true
+    },
+    {
+      "command": "/theekchat",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Theekchat",
+      "enabled": true
+    },
+    {
+      "command": "/experience",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Experience",
+      "enabled": true
+    },
+    {
+      "command": "/education",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Education",
+      "enabled": true
+    },
+    {
+      "command": "/availability",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Availability",
+      "enabled": true
+    },
+    {
+      "command": "/career-focus",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Career focus",
+      "enabled": true
+    },
+    {
+      "command": "/profile-summary",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Profile summary",
+      "enabled": true
+    },
+    {
+      "command": "/developer-profile",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Developer profile",
+      "enabled": true
+    },
+    {
+      "command": "/strengths",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Strengths",
+      "enabled": true
+    },
+    {
+      "command": "/technology-list",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Technology list",
+      "enabled": true
+    },
+    {
+      "command": "/frontend",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Frontend",
+      "enabled": true
+    },
+    {
+      "command": "/backend",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Backend",
+      "enabled": true
+    },
+    {
+      "command": "/database",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Database",
+      "enabled": true
+    },
+    {
+      "command": "/deployment",
+      "category": "portfolio",
+      "mode": "query",
+      "description": "Deployment",
+      "enabled": true
+    },
+    {
+      "command": "/services",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Services",
+      "enabled": true
+    },
+    {
+      "command": "/web-development",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Web development",
+      "enabled": true
+    },
+    {
+      "command": "/backend-service",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Backend service",
+      "enabled": true
+    },
+    {
+      "command": "/api-service",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Api service",
+      "enabled": true
+    },
+    {
+      "command": "/storefront-service",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Storefront service",
+      "enabled": true
+    },
+    {
+      "command": "/seo-service",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Seo service",
+      "enabled": true
+    },
+    {
+      "command": "/digital-products",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Digital products",
+      "enabled": true
+    },
+    {
+      "command": "/fiverr",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Fiverr",
+      "enabled": true
+    },
+    {
+      "command": "/upwork",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Upwork",
+      "enabled": true
+    },
+    {
+      "command": "/freelance-profile",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Freelance profile",
+      "enabled": true
+    },
+    {
+      "command": "/request-quote",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Request quote",
+      "enabled": true
+    },
+    {
+      "command": "/project-brief",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Project brief",
+      "enabled": true
+    },
+    {
+      "command": "/engagement-types",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Engagement types",
+      "enabled": true
+    },
+    {
+      "command": "/collaboration",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Collaboration",
+      "enabled": true
+    },
+    {
+      "command": "/hire-developer",
+      "category": "freelance",
+      "mode": "query",
+      "description": "Hire developer",
+      "enabled": true
+    },
+    {
+      "command": "/latest-articles",
+      "category": "journal",
+      "mode": "query",
+      "description": "Latest articles",
+      "enabled": true
+    },
+    {
+      "command": "/search-blog",
+      "category": "journal",
+      "mode": "query",
+      "description": "Search blog",
+      "enabled": true
+    },
+    {
+      "command": "/subscribe",
+      "category": "journal",
+      "mode": "query",
+      "description": "Subscribe",
+      "enabled": true
+    },
+    {
+      "command": "/share-page",
+      "category": "journal",
+      "mode": "utility",
+      "description": "Share page",
+      "enabled": true
+    },
+    {
+      "command": "/share-project",
+      "category": "journal",
+      "mode": "utility",
+      "description": "Share project",
+      "enabled": true
+    },
+    {
+      "command": "/copy-link",
+      "category": "journal",
+      "mode": "utility",
+      "description": "Copy link",
+      "enabled": true
+    },
+    {
+      "command": "/reading-mode",
+      "category": "journal",
+      "mode": "query",
+      "description": "Reading mode",
+      "enabled": true
+    },
+    {
+      "command": "/article-summary",
+      "category": "journal",
+      "mode": "query",
+      "description": "Article summary",
+      "enabled": true
+    },
+    {
+      "command": "/article-topics",
+      "category": "journal",
+      "mode": "query",
+      "description": "Article topics",
+      "enabled": true
+    },
+    {
+      "command": "/blog-categories",
+      "category": "journal",
+      "mode": "query",
+      "description": "Blog categories",
+      "enabled": true
+    },
+    {
+      "command": "/help",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Help",
+      "enabled": true
+    },
+    {
+      "command": "/commands",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Commands",
+      "enabled": true
+    },
+    {
+      "command": "/faq",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Faq",
+      "enabled": true
+    },
+    {
+      "command": "/greeting",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Greeting",
+      "enabled": true
+    },
+    {
+      "command": "/recommend-service",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Recommend service",
+      "enabled": true
+    },
+    {
+      "command": "/project-fit",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Project fit",
+      "enabled": true
+    },
+    {
+      "command": "/estimate-scope",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Estimate scope",
+      "enabled": true
+    },
+    {
+      "command": "/prepare-brief",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Prepare brief",
+      "enabled": true
+    },
+    {
+      "command": "/write-enquiry",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Write enquiry",
+      "enabled": true
+    },
+    {
+      "command": "/contact-details",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Contact details",
+      "enabled": true
+    },
+    {
+      "command": "/social-links",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Social links",
+      "enabled": true
+    },
+    {
+      "command": "/response-policy",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Response policy",
+      "enabled": true
+    },
+    {
+      "command": "/knowledge-base",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Knowledge base",
+      "enabled": true
+    },
+    {
+      "command": "/memory-policy",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Memory policy",
+      "enabled": true
+    },
+    {
+      "command": "/bot-status",
+      "category": "assistant",
+      "mode": "query",
+      "description": "Bot status",
+      "enabled": true
+    },
+    {
+      "command": "/tour",
+      "category": "productivity",
+      "mode": "utility",
+      "description": "Tour",
+      "enabled": true
+    },
+    {
+      "command": "/next-chapter",
+      "category": "productivity",
+      "mode": "utility",
+      "description": "Next chapter",
+      "enabled": true
+    },
+    {
+      "command": "/previous-chapter",
+      "category": "productivity",
+      "mode": "utility",
+      "description": "Previous chapter",
+      "enabled": true
+    },
+    {
+      "command": "/theme-dark",
+      "category": "productivity",
+      "mode": "utility",
+      "description": "Theme dark",
+      "enabled": true
+    },
+    {
+      "command": "/theme-contrast",
+      "category": "productivity",
+      "mode": "utility",
+      "description": "Theme contrast",
+      "enabled": true
+    },
+    {
+      "command": "/reduce-motion",
+      "category": "productivity",
+      "mode": "utility",
+      "description": "Reduce motion",
+      "enabled": true
+    },
+    {
+      "command": "/install-app",
+      "category": "productivity",
+      "mode": "utility",
+      "description": "Install app",
+      "enabled": true
+    },
+    {
+      "command": "/offline-status",
+      "category": "productivity",
+      "mode": "query",
+      "description": "Offline status",
+      "enabled": true
+    },
+    {
+      "command": "/copy-email",
+      "category": "productivity",
+      "mode": "utility",
+      "description": "Copy email",
+      "enabled": true
+    },
+    {
+      "command": "/copy-profile",
+      "category": "productivity",
+      "mode": "utility",
+      "description": "Copy profile",
+      "enabled": true
+    },
+    {
+      "command": "/open-github",
+      "category": "productivity",
+      "mode": "query",
+      "description": "Open github",
+      "enabled": true
+    },
+    {
+      "command": "/open-linkedin",
+      "category": "productivity",
+      "mode": "query",
+      "description": "Open linkedin",
+      "enabled": true
+    },
+    {
+      "command": "/open-youtube",
+      "category": "productivity",
+      "mode": "query",
+      "description": "Open youtube",
+      "enabled": true
+    },
+    {
+      "command": "/open-tiktok",
+      "category": "productivity",
+      "mode": "query",
+      "description": "Open tiktok",
+      "enabled": true
+    },
+    {
+      "command": "/open-facebook",
+      "category": "productivity",
+      "mode": "query",
+      "description": "Open facebook",
+      "enabled": true
+    },
+    {
+      "command": "/admin-overview",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Admin overview",
+      "enabled": true
+    },
+    {
+      "command": "/new-post",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "New post",
+      "enabled": true
+    },
+    {
+      "command": "/edit-post",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Edit post",
+      "enabled": true
+    },
+    {
+      "command": "/delete-draft",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Delete draft",
+      "enabled": true
+    },
+    {
+      "command": "/publish-post",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Publish post",
+      "enabled": true
+    },
+    {
+      "command": "/save-draft",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Save draft",
+      "enabled": true
+    },
+    {
+      "command": "/export-blog-json",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Export blog json",
+      "enabled": true
+    },
+    {
+      "command": "/import-blog-json",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Import blog json",
+      "enabled": true
+    },
+    {
+      "command": "/add-heading-block",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Add heading block",
+      "enabled": true
+    },
+    {
+      "command": "/add-paragraph-block",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Add paragraph block",
+      "enabled": true
+    },
+    {
+      "command": "/add-list-block",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Add list block",
+      "enabled": true
+    },
+    {
+      "command": "/add-quote-block",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Add quote block",
+      "enabled": true
+    },
+    {
+      "command": "/add-image-block",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Add image block",
+      "enabled": true
+    },
+    {
+      "command": "/remove-block",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Remove block",
+      "enabled": true
+    },
+    {
+      "command": "/reorder-blocks",
+      "category": "admin-cms",
+      "mode": "admin",
+      "description": "Reorder blocks",
+      "enabled": true
+    },
+    {
+      "command": "/open-media-editor",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Open media editor",
+      "enabled": true
+    },
+    {
+      "command": "/image-crop",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Image crop",
+      "enabled": true
+    },
+    {
+      "command": "/image-resize",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Image resize",
+      "enabled": true
+    },
+    {
+      "command": "/image-rotate",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Image rotate",
+      "enabled": true
+    },
+    {
+      "command": "/image-filter",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Image filter",
+      "enabled": true
+    },
+    {
+      "command": "/image-export",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Image export",
+      "enabled": true
+    },
+    {
+      "command": "/video-trim",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Video trim",
+      "enabled": true
+    },
+    {
+      "command": "/video-filter",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Video filter",
+      "enabled": true
+    },
+    {
+      "command": "/video-speed",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Video speed",
+      "enabled": true
+    },
+    {
+      "command": "/video-poster",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Video poster",
+      "enabled": true
+    },
+    {
+      "command": "/video-export",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Video export",
+      "enabled": true
+    },
+    {
+      "command": "/media-library",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Media library",
+      "enabled": true
+    },
+    {
+      "command": "/media-metadata",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Media metadata",
+      "enabled": true
+    },
+    {
+      "command": "/media-alt-text",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Media alt text",
+      "enabled": true
+    },
+    {
+      "command": "/media-compress-guide",
+      "category": "admin-media",
+      "mode": "admin",
+      "description": "Media compress guide",
+      "enabled": true
+    },
+    {
+      "command": "/ai-settings",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Ai settings",
+      "enabled": true
+    },
+    {
+      "command": "/ai-test",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Ai test",
+      "enabled": true
+    },
+    {
+      "command": "/rag-search",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Rag search",
+      "enabled": true
+    },
+    {
+      "command": "/dataset-view",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Dataset view",
+      "enabled": true
+    },
+    {
+      "command": "/dataset-export",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Dataset export",
+      "enabled": true
+    },
+    {
+      "command": "/dataset-import",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Dataset import",
+      "enabled": true
+    },
+    {
+      "command": "/telegram-status",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Telegram status",
+      "enabled": true
+    },
+    {
+      "command": "/telegram-test",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Telegram test",
+      "enabled": true
+    },
+    {
+      "command": "/telegram-webhook-guide",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Telegram webhook guide",
+      "enabled": true
+    },
+    {
+      "command": "/chat-analytics",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Chat analytics",
+      "enabled": true
+    },
+    {
+      "command": "/feedback-review",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Feedback review",
+      "enabled": true
+    },
+    {
+      "command": "/session-list",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Session list",
+      "enabled": true
+    },
+    {
+      "command": "/clear-chat-history",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Clear chat history",
+      "enabled": true
+    },
+    {
+      "command": "/command-status",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Command status",
+      "enabled": true
+    },
+    {
+      "command": "/tool-permissions",
+      "category": "admin-ai",
+      "mode": "admin",
+      "description": "Tool permissions",
+      "enabled": true
+    },
+    {
+      "command": "/security-checklist",
+      "category": "security",
+      "mode": "audit",
+      "description": "Security checklist",
+      "enabled": true
+    },
+    {
+      "command": "/security-headers",
+      "category": "security",
+      "mode": "audit",
+      "description": "Security headers",
+      "enabled": true
+    },
+    {
+      "command": "/check-link-safety",
+      "category": "security",
+      "mode": "audit",
+      "description": "Check link safety",
+      "enabled": true
+    },
+    {
+      "command": "/check-meta-tags",
+      "category": "security",
+      "mode": "audit",
+      "description": "Check meta tags",
+      "enabled": true
+    },
+    {
+      "command": "/check-seo",
+      "category": "security",
+      "mode": "audit",
+      "description": "Check seo",
+      "enabled": true
+    },
+    {
+      "command": "/check-accessibility",
+      "category": "security",
+      "mode": "audit",
+      "description": "Check accessibility",
+      "enabled": true
+    },
+    {
+      "command": "/check-pwa",
+      "category": "security",
+      "mode": "audit",
+      "description": "Check pwa",
+      "enabled": true
+    },
+    {
+      "command": "/check-offline",
+      "category": "security",
+      "mode": "audit",
+      "description": "Check offline",
+      "enabled": true
+    },
+    {
+      "command": "/check-image-alt",
+      "category": "security",
+      "mode": "audit",
+      "description": "Check image alt",
+      "enabled": true
+    },
+    {
+      "command": "/check-broken-links",
+      "category": "security",
+      "mode": "audit",
+      "description": "Check broken links",
+      "enabled": true
+    },
+    {
+      "command": "/privacy-review",
+      "category": "security",
+      "mode": "audit",
+      "description": "Privacy review",
+      "enabled": true
+    },
+    {
+      "command": "/cookie-review",
+      "category": "security",
+      "mode": "audit",
+      "description": "Cookie review",
+      "enabled": true
+    },
+    {
+      "command": "/dependency-audit-guide",
+      "category": "security",
+      "mode": "audit",
+      "description": "Dependency audit guide",
+      "enabled": true
+    },
+    {
+      "command": "/report-issue",
+      "category": "security",
+      "mode": "audit",
+      "description": "Report issue",
+      "enabled": true
+    },
+    {
+      "command": "/safe-audit-scope",
+      "category": "security",
+      "mode": "audit",
+      "description": "Safe audit scope",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "profile": {
+    "name": "Ibukunoluwa Olabode",
+    "shortName": "IBK",
+    "headline": "Full Stack Web Developer",
+    "location": "Ibadan, Nigeria",
+    "availability": "Available for opportunities",
+    "summary": "Full Stack Web Developer with a foundation in frontend and backend development, responsive design, database management, and API integration. Interested in building useful, secure, and user-focused web applications that solve practical business problems.",
+    "about": "I enjoy turning ideas into useful digital experiences. My work spans responsive website interfaces, PHP and Node.js backend development, database-driven applications, e-commerce experiences, progressive web apps, and the practical details that make a product easier to use. I value continuous learning, clear communication, and building with the people who will use the product in mind.",
+    "objective": "To contribute to a development team or client project where I can build and improve reliable web applications, strengthen backend and API engineering skills, and deliver thoughtful user experiences.",
+    "email": "your-email@example.com",
+    "phone": "",
+    "portfolio": "https://your-domain.vercel.app",
+    "resumePath": "",
+    "resumeLabel": "View CV"
+  },
+  "socials": [
+    {
+      "label": "GitHub",
+      "username": "your-github-username",
+      "url": "https://github.com/your-github-username"
+    },
+    {
+      "label": "LinkedIn",
+      "username": "your-linkedin-username",
+      "url": "https://www.linkedin.com/in/your-linkedin-username/"
+    },
+    {
+      "label": "Fiverr",
+      "username": "Add Fiverr profile",
+      "url": "https://www.fiverr.com/"
+    },
+    {
+      "label": "Upwork",
+      "username": "Add Upwork profile",
+      "url": "https://www.upwork.com/"
+    },
+    {
+      "label": "Facebook",
+      "username": "IbkTechnetHub",
+      "url": "https://www.facebook.com/IbkTechnetHub"
+    },
+    {
+      "label": "YouTube",
+      "username": "@IbkTechnetHub",
+      "url": "https://www.youtube.com/@IbkTechnetHub"
+    },
+    {
+      "label": "TikTok",
+      "username": "@ibktechnethub",
+      "url": "https://www.tiktok.com/@ibktechnethub"
+    }
+  ],
+  "skills": [
+    {
+      "group": "Frontend development",
+      "items": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Responsive web design",
+        "Forms and UI implementation"
+      ]
+    },
+    {
+      "group": "Backend development",
+      "items": [
+        "PHP",
+        "Node.js",
+        "REST API integration",
+        "AJAX",
+        "Server-side logic"
+      ]
+    },
+    {
+      "group": "Databases and data",
+      "items": [
+        "MySQL",
+        "SQL fundamentals",
+        "JSON",
+        "Database-driven applications"
+      ]
+    },
+    {
+      "group": "Tools and deployment",
+      "items": [
+        "Visual Studio Code",
+        "XAMPP",
+        "Git",
+        "GitHub",
+        "Vercel",
+        "Render"
+      ]
+    },
+    {
+      "group": "Digital and creative",
+      "items": [
+        "Figma UI/UX",
+        "SEO",
+        "Email marketing",
+        "Digital product publishing",
+        "Canva",
+        "CapCut"
+      ]
+    }
+  ],
+  "services": [
+    {
+      "title": "Full Stack Web Development",
+      "detail": "Responsive websites and web applications with practical frontend and backend functionality.",
+      "tag": "Build"
+    },
+    {
+      "title": "Backend & API Integration",
+      "detail": "PHP or Node.js logic, database connections, API integration, and application workflows.",
+      "tag": "Connect"
+    },
+    {
+      "title": "Storefront & Website Setup",
+      "detail": "Storefront design, page structure, content setup, and website launch support.",
+      "tag": "Launch"
+    },
+    {
+      "title": "Website Improvements & SEO",
+      "detail": "Responsive refinements, metadata, content structure, and foundational search optimisation.",
+      "tag": "Improve"
+    },
+    {
+      "title": "Digital Content & Product Support",
+      "detail": "Digital product presentation, landing pages, email marketing support, and content assets.",
+      "tag": "Grow"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Web Developer",
+      "organization": "IBK Technet Hub",
+      "location": "Nigeria",
+      "period": "",
+      "description": "Develop and maintain web applications and digital platforms, focusing on frontend development, backend functionality, and responsive design."
+    },
+    {
+      "role": "Web Development & SEO Partner",
+      "organization": "DigiTrovea",
+      "location": "Remote",
+      "period": "",
+      "description": "Collaborated on the design and setup of an e-commerce storefront and blogging website, including search engine optimisation."
+    }
+  ],
+  "education": [
+    {
+      "qualification": "Undergraduate studies",
+      "institution": "Ladoke Akintola University of Technology (LAUTECH)",
+      "location": "Ogbomoso, Nigeria",
+      "note": ""
+    }
+  ],
+  "projects": [
+    {
+      "slug": "ibk-technet-hub",
+      "name": "IBK Technet Hub",
+      "type": "Technology & digital learning platform",
+      "description": "A technology platform for learning resources, digital products, and developer-oriented services.",
+      "url": "https://ibktechnethub.synergize.co/",
+      "tags": [
+        "PHP",
+        "Web platform",
+        "Digital learning"
+      ],
+      "status": "Live",
+      "visual": "hub",
+      "featured": true
+    },
+    {
+      "slug": "digitrovea",
+      "name": "DigiTrovea",
+      "type": "E-commerce & blogging platform",
+      "description": "An online storefront with integrated blogging functionality, designed to combine product discovery with useful content.",
+      "url": "https://DigiTrovea.vercel.com",
+      "tags": [
+        "Storefront",
+        "Blogging",
+        "SEO"
+      ],
+      "status": "Live",
+      "visual": "store",
+      "featured": true
+    },
+    {
+      "slug": "song-pwa",
+      "name": "Song",
+      "type": "Music web app with PWA",
+      "description": "A music-playing web application with Progressive Web App functionality for an app-like web experience.",
+      "url": "https://song-puce.vercel.app/",
+      "tags": [
+        "JavaScript",
+        "PWA",
+        "Web app"
+      ],
+      "status": "Live",
+      "visual": "music",
+      "featured": true
+    },
+    {
+      "slug": "theekchat",
+      "name": "TheekChat",
+      "type": "Web-based communication product",
+      "description": "A web-based communication platform with a related Android application initiative.",
+      "url": "https://theekchat.rf.gd/",
+      "tags": [
+        "Communication",
+        "Web app",
+        "Mobile initiative"
+      ],
+      "status": "Live",
+      "visual": "chat",
+      "featured": true
+    }
+  ],
+  "freelanceProfiles": [
+    {
+      "platform": "Fiverr",
+      "url": "https://www.fiverr.com/",
+      "label": "Add your Fiverr profile URL",
+      "description": "Publish service packages for website development, storefront setup, and website improvements."
+    },
+    {
+      "platform": "Upwork",
+      "url": "https://www.upwork.com/",
+      "label": "Add your Upwork profile URL",
+      "description": "Connect with clients looking for web development, backend support, API integration, and SEO setup."
+    }
+  ],
+  "navigation": [
+    {
+      "label": "Home",
+      "path": "/",
+      "number": "01"
+    },
+    {
+      "label": "About",
+      "path": "/about/",
+      "number": "02"
+    },
+    {
+      "label": "Work",
+      "path": "/work/",
+      "number": "03"
+    },
+    {
+      "label": "Freelance",
+      "path": "/freelance/",
+      "number": "04"
+    },
+    {
+      "label": "Journal",
+      "path": "/blog/",
+      "number": "05"
+    },
+    {
+      "label": "Resume",
+      "path": "/resume/",
+      "number": "06"
+    },
+    {
+      "label": "Hire me",
+      "path": "/hire/",
+      "number": "07"
+    }
+  ]
+}

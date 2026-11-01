@@ -1,0 +1,2 @@
+import { json, requireAdmin, telegramSend } from '../lib/server.js';
+export default async function handler(req,res){if(req.method!=='POST')return json(res,405,{error:'Method not allowed'});if(!requireAdmin(req,res))return;try{const message=await telegramSend('IBK Portfolio Studio: Telegram connection test successful.');if(!message)return json(res,503,{error:'Set TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID in Vercel first.'});return json(res,200,{ok:true});}catch(error){return json(res,502,{error:error.message});}}
